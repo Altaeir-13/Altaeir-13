@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and IoE, but everything in CS seems interesting to me atm...
 - 🌱 I’m currently learning C, C++, Java and Python languages
 - 💞️ I’m just willing to learn more
-- 📫 How to reach me? Email - randerson.sousa@acad.ifma.edu.br or Twitter - @A_Perturbadoras
+- 📫 How to reach me? Email - randerson.sousa@acad.ifma.edu.br
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: mywife is soft nd ilikeher 
 <!---
