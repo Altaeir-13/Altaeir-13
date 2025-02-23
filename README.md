@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=ff1c3a&height=300&section=header&text=Altair%&fontSize=90&fontColor=fae3ac&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff1c3a&height=300&section=header&text=Altair%&fontSize=90&fontColor=fae3ac&animation=fadeIn" alt="header" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=5657CD&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3Cfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3Cprint(%22Hello+World!%22)%3CSystem.out.println(%22Hello+World!%22);)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=5657CD&center=true&vCenter=true&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3Cfun+main()+%7B+println(%22Hello%2C+World!%22)+%7D%3Cprint(%22Hello+World!%22)%3CSystem.out.println(%22Hello+World!%22);" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 
 insira aqui uma breve descrição sobre vonze
