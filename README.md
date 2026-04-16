@@ -8,9 +8,9 @@
   </a>
 </div>
 
-##
-<div align="center">⭐The Star Keeps Shining!⭐</div>
-##
+<div align="center">
+<h2>⭐The Star Keeps Shining!⭐</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
