@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5657CD&background=FF090900&width=550&height=80&separator=%3C&lines=git+commit+-m+%22%E2%AD%90The+Star+Keeps+Shining!%E2%AD%90%22%3Cprintf(%22Hello+World%5Cn%22);%3Cecho+%22Zero+trust%2C+full+effort.%22%3Cprint(%22Finding+signals+in+the+noise.%22)%3Cprintf(%22Training+tiny+dreams...%5Cn%22);%3Csudo+rm+-rf+bad+vibes);" alt="Typing SVG" />
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5657CD&background=FF090900&width=550&height=80&separator=%3C&lines=git+commit+-m+%22%E2%AD%90The+Star+Keeps+Shining!%E2%AD%90%22%3Cprintf(%22Hello+World%5Cn%22);%3Cecho+%22Zero+trust%2C+full+effort.%22%3Cprint(%22Finding+signals+in+the+noise.%22)%3Cprintf(%22Training+tiny+dreams...%5Cn%22);%3Csudo+rm+-rf+bad+vibes](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5657CD&background=FF090900&center=true&vCenter=true&width=550&height=80&separator=%3C&lines=git+commit+-m+%22%E2%AD%90The+Star+Keeps+Shining!%E2%AD%90%22%3Cprintf(%22Hello+World%5Cn%22);%3Cecho+%22Zero+trust%2C+full+effort.%22%3Cprint(%22Finding+signals+in+the+noise.%22)%3Cprintf(%22Training+tiny+dreams...%5Cn%22);%3Csudo+rm+-rf+bad+vibes);" alt="Typing SVG" />
   </a>
 </div>
 
