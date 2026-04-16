@@ -8,9 +8,13 @@
   </a>
 </div>
 
+<hr>
 <div align="center">
-<h2>⭐The Star Keeps Shining!⭐</h2>
+  <br>
+  <b><font size="7"> The Star Keeps Shining! ⭐</font></b>
+  <br><br>
 </div>
+<hr>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -22,7 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Altaeir-13&show_icons=true&bg_color=231942&text_color=0aa690&hide_border=True&icon_color=fcd896&title_color=ff132a" alt="Altair's GitHub stats" />
 </div>
 
-## Skills
+<hr>
+<h3>Skills</h3>
 <div align="center">
   <table border="0">
     <tr>
@@ -38,7 +43,13 @@
   </table>
 </div>
 
-## Contact 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/randerson-sousa-78b503295/)
-
-[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:randerson.sousa@acad.ifma.edu.br)
+<hr>
+<h3>Contact</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/randersonsousa">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" />
+  </a>
+  <a href="mailto:randerson.sdsn@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" />
+  </a>
+</p>
